@@ -37,11 +37,4 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 
 ---
 
-### 📬 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulrodriguezg/)  
-📧 **srodriguezguillen01@gmail.com**  
-📍 Santander, Cantabria, España  
-
----
-
 > *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*  
