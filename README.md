@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="banner![banner-dark](https://github.com/user-attachments/assets/f215c90b-9e3c-4950-9628-c0c30f0766e4).svg" alt="Saúl Rodríguez Guillén — Data Engineer | Backend Developer | AI Enthusiast" />
+</p>![banner](https://github.com/user-attachments/assets/29a882b3-21a0-46f8-a659-48df72f19e76)
+
+
 # Saúl Rodríguez Guillén
 
 ## 🧑‍💻 Data Engineer | Backend Developer | AI Enthusiast  
@@ -38,3 +44,7 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 ---
 
 > *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*  
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=THIONG&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+</p>
