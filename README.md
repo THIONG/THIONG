@@ -1,8 +1,8 @@
-# 👋 Hola, soy Saúl Rodríguez Guillén
+# Saúl Rodríguez Guillén
 
-## 🧑‍💻 Data Scientist | Backend Developer | AI Enthusiast  
+## 🧑‍💻 Data Engineer | Backend Developer | AI Enthusiast  
 Soy un apasionado de la **Inteligencia Artificial**, el **Machine Learning** y la **Ingeniería de Datos**.  
-Actualmente trabajo como **Data Scientist** desarrollando modelos de **Deep Learning** y procesos ETL para optimizar proyectos en el sector energético.
+Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos ETL para optimizar proyectos en el sector energético.
 
 ---
 
@@ -30,8 +30,8 @@ Actualmente trabajo como **Data Scientist** desarrollando modelos de **Deep Lear
 ---
 
 ### 📈 Mis estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saulrodriguezg&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulrodriguezg&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=THIONG&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&layout=compact&theme=tokyonight)
 
 ---
 
