@@ -1,4 +1,4 @@
-![banner-dark](https://github.com/user-attachments/assets/cc70126c-b67c-48ff-9663-3e3351107d04)
+![banner-dark](https://github.com/user-attachments/assets/f8831713-fa91-4003-85eb-14bfd4cec7e8)
 
 Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos **ETL** para optimizar proyectos en el sector energético.
 
