@@ -7,7 +7,7 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 ---
 
 ### 🚀 Tecnologías y herramientas
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
@@ -17,7 +17,7 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-</p>
+</div>
 
 ---
 
@@ -31,8 +31,8 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 
 ### 📈 Mis estadísticas de GitHub
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THIONG&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THIONG&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 ---
