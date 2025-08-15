@@ -38,5 +38,5 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 > *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*  
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=THIONG&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iiTzSenn.iiTzSenn&left_color=black&right_color=black&left_text=Profile%20views" />
 </p>
