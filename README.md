@@ -1,6 +1,6 @@
 ![banner-dark](https://github.com/user-attachments/assets/cc70126c-b67c-48ff-9663-3e3351107d04)
 
-Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos ETL para optimizar proyectos en el sector energético.
+Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos **ETL** para optimizar proyectos en el sector energético.
 
 ---
 
@@ -19,7 +19,7 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 
 ---
 
-### 📊 Lo que hago
+### 📊 Especialidades técnicas
 - 🧠 Desarrollo de modelos de **IA y Deep Learning** con **TensorFlow**, **OpenCV** y **Scikit-Learn**.  
 - 🗄 Creación de **microservicios backend** en **Python (FastAPI)** y **Java (Spring)**.  
 - 📊 Análisis y visualización de datos con **Pandas**, **NumPy** y **Power BI**.  
@@ -35,8 +35,4 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 
 ---
 
-> *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*  
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iiTzSenn.iiTzSenn&left_color=black&right_color=black&left_text=Profile%20views" />
-</p>
+> *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*
