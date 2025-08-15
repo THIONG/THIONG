@@ -29,10 +29,10 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 
 ### 📈 Mis estadísticas de GitHub
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THIONG&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&layout=compact&theme=dark" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THIONG&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Langs" />
 </div>
-
+https://github-readme-stats.vercel.app/api?username=Macrebot&locale=es&bg_color=000000&title_color=9745F5&text_color=7D39CB
 ---
 
 > *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*
