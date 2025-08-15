@@ -1,13 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner![banner-dark](https://github.com/user-attachments/assets/f215c90b-9e3c-4950-9628-c0c30f0766e4).svg" alt="Saúl Rodríguez Guillén — Data Engineer | Backend Developer | AI Enthusiast" />
-</p>![banner](https://github.com/user-attachments/assets/29a882b3-21a0-46f8-a659-48df72f19e76)
+![banner-dark](https://github.com/user-attachments/assets/cc70126c-b67c-48ff-9663-3e3351107d04)
 
-
-# Saúl Rodríguez Guillén
-
-## 🧑‍💻 Data Engineer | Backend Developer | AI Enthusiast  
-Soy un apasionado de la **Inteligencia Artificial**, el **Machine Learning** y la **Ingeniería de Datos**.  
 Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos ETL para optimizar proyectos en el sector energético.
 
 ---
