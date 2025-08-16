@@ -17,10 +17,10 @@ Actualmente trabajo como **Data Engineer** en inAtlas, diseñando soluciones com
 ---
 
 ### 📊 Especialidades técnicas
-- 🧠 Desarrollo de modelos de **IA y Deep Learning** con **TensorFlow**, **OpenCV** y **Scikit-Learn**.  
-- 🗄 Creación de **microservicios backend** en **Python (FastAPI)** y **Java (Spring)**.  
-- 📊 Análisis y visualización de datos con **Pandas**, **NumPy** y **Power BI**.  
-- 🗺 Procesamiento de datos geoespaciales con herramientas **ESRI**.  
+- ⚙️ **Diseño y orquestación de pipelines de datos** y procesos **ETL**, aplicando tecnologías de **Big Data** como **Spark** y **Kafka**.  
+- 🗄 **Desarrollo backend** en **Python (FastAPI)** y **Java (Spring, Hibernate)** para la construcción de microservicios y APIs.  
+- 🧠 **Aplicación de técnicas de Data Science** con **NumPy, Pandas, TensorFlow, Scikit-Learn y OpenCV**, orientadas a analítica avanzada.  
+- 🌍 **Procesamiento y análisis de datos geoespaciales**, apoyado en herramientas como **ESRI** y entornos cloud (**AWS**). 
 
 ---
 
@@ -32,4 +32,4 @@ Actualmente trabajo como **Data Engineer** en inAtlas, diseñando soluciones com
 
 ---
 
-> *"La curiosidad y la constancia son las herramientas más poderosas para transformar datos en conocimiento."*
+> *"Data is the new oil, but only the right engineering can turn it into value."*
