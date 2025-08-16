@@ -1,6 +1,6 @@
 ![banner-dark](https://github.com/user-attachments/assets/f8831713-fa91-4003-85eb-14bfd4cec7e8)
 
-Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learning** y procesos **ETL** para optimizar proyectos en el sector energético.
+Actualmente trabajo como **Data Engineer** en inAtlas, diseñando soluciones completas que van desde la adquisición de datos externos (web scraping), hasta su transformación y posterior integración en pipelines de análisis geoespacial.
 
 ---
 
