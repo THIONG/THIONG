@@ -30,7 +30,7 @@ Actualmente trabajo como **Data Engineer** desarrollando modelos de **Deep Learn
 ### 📈 Mis estadísticas de GitHub
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=THIONG&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffffe" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIONG&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Langs" />
 </div>
 
 ---
