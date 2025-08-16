@@ -1,4 +1,4 @@
-![banner-dark](https://github.com/user-attachments/assets/f8831713-fa91-4003-85eb-14bfd4cec7e8)
+![banner-dark](https://github.com/user-attachments/assets/74214136-2dca-472d-9d58-67a9a528d00f)
 
 Actualmente trabajo como **Data Engineer** en inAtlas, diseñando soluciones completas que van desde la adquisición de datos externos (web scraping), hasta su transformación y posterior integración en pipelines de análisis geoespacial.
 
