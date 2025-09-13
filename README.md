@@ -18,10 +18,10 @@ Actualmente trabajo como **Data Engineer** en inAtlas, diseñando soluciones com
 ---
 
 ### 📊 Especialidades técnicas
-- ⚙️ **Diseño y orquestación de pipelines de datos** y procesos **ETL**, aplicando tecnologías de **Big Data** como **Spark** y **Kafka**.  
-- 🗄 **Desarrollo backend** en **Python (FastAPI)** y **Java (Spring, Hibernate)** para la construcción de microservicios y APIs.  
-- 🧠 **Aplicación de Data Science** con **NumPy, Pandas, TensorFlow, Scikit-Learn y OpenCV**, orientadas a analítica avanzada.  
-- 🌍 **Procesamiento y análisis de datos geoespaciales**, apoyado en herramientas como **ESRI** y entornos cloud (**AWS**). 
+- **Diseño y orquestación de pipelines de datos** y procesos **ETL**, aplicando tecnologías de **Big Data** como **Spark** y **Kafka**.  
+- **Desarrollo backend** en **Python (FastAPI)** y **Java (Spring, Hibernate)** para la construcción de microservicios y APIs.  
+- **Aplicación de Data Science** con **NumPy, Pandas, TensorFlow, Scikit-Learn y OpenCV**, orientadas a analítica avanzada.  
+- **Procesamiento y análisis de datos geoespaciales**, apoyado en herramientas como **ESRI** y entornos cloud (**AWS**). 
 
 ---
 
